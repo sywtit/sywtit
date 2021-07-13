@@ -1,17 +1,18 @@
 ### Hi there 👋 
 
+<br>
+
 🌱 I’m currently learning ...
 > Java, SpringBoot, Kafka
 
 🔭 I’m currently working on ...
-> https://github.com/CoRe-ajou <br>
-> https://github.com/xcckr
+> [악플 신고 서비스 - core](https://github.com/CoRe-ajou) <br>
+> [learning kafka](https://github.com/xcckr)
 
 <br>
 
 [![Sooyoung's github stats](https://github-readme-stats.vercel.app/api?username=sywtit)](https://github.com/sywtit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sywtit&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sywtit&layout=compact)](https://github.com/congchu/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsywtit%2Fhit-counter&count_bg=%234D9517&title_bg=%23000000&icon=baidu.svg&icon_color=%2394E944&title=up%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
@@ -27,4 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+top langs 의 색깔 theme = 
 -->
