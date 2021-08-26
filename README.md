@@ -8,7 +8,6 @@
 🔭 I’m currently working on ...
 > [악플 신고 서비스 - core](https://github.com/CoRe-ajou) <br>
 > [악플 신고 서비스 - core - 진행위치](https://github.com/devCO-RE) <br>
-> [learning kafka](https://github.com/xcckr)
 
 <br>
 
@@ -31,4 +30,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sywtit&layout=compact)](https://github.com/congchu/github-readme-stats)
 top langs 의 색깔 theme = 
+
+> [learning kafka](https://github.com/xcckr)
+
 -->
