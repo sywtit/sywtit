@@ -7,7 +7,8 @@
 
 🔭 I’m currently working on ...
 > [악플 신고 서비스 - core](https://github.com/CoRe-ajou) <br>
-> [악플 신고 서비스 - core - 진행위치](https://github.com/devCO-RE) <br>
+> [악플 신고 서비스 - core - 2](https://github.com/devCO-RE) <br>
+> [인테리어 아이디어 공유, 상품 중고거래 플랫폼 - dotd](https://github.com/Deco-of-the-day/Web_Backend) <br>
 
 <br>
 
